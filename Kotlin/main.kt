@@ -11,4 +11,6 @@ fun main(args: Array<String>) {
         input->input.length;
     }
     println(hihiNum);
+    var eugine: Eugine;
+    println(eugine.age);
 }
