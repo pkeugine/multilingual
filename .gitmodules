@@ -1,4 +1,4 @@
 [submodule "resources"]
 	path = resources
 	url = https://github.com/ggyool/submodule-test.git
-	branch = main
+	branch = master
